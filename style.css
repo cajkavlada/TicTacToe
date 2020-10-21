@@ -1,0 +1,22 @@
+h1{
+	color: #4CAF50; /* Green */
+}
+h1, h2, button, #game{
+	text-align: center;
+}
+.player1{
+	color: blue;
+}
+.player2{
+	color: red;
+}
+button {
+  margin:auto;
+  display:block;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin-top: 20px;
+  font-size: 16px;
+}
